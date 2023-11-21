@@ -6,7 +6,7 @@ class Bird:
 class Mammal(Bird):
     def __init__(self) :
         super().__init__()
-        print("The mammal is running")
+        print("The mammal is eating")
 
 class Bat(Mammal):
     pass

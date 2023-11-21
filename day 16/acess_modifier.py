@@ -11,6 +11,8 @@ class Person:
     def salary(self,salary):
         self.__salary = salary
 
+        """ we can also """
+
 person=Person()
 person.name="krijal"
 print(person.name)

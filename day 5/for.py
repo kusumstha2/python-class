@@ -11,4 +11,11 @@
 for i in range (10):
      print(i)
 
-print(i)    
+#print(i)   
+
+
+# todo:home work
+#1
+#12
+#123
+#1234
